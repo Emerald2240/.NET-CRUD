@@ -1,0 +1,14 @@
+C:\Users\Orji Michael C\source\repos\CrudApp\CrudApp\bin\Release\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Orji Michael C\source\repos\CrudApp\CrudApp\bin\Release\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Orji Michael C\source\repos\CrudApp\CrudApp\bin\Release\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Orji Michael C\source\repos\CrudApp\CrudApp\bin\Release\netcoreapp2.2\CrudApp.deps.json
+C:\Users\Orji Michael C\source\repos\CrudApp\CrudApp\bin\Release\netcoreapp2.2\CrudApp.runtimeconfig.json
+C:\Users\Orji Michael C\source\repos\CrudApp\CrudApp\bin\Release\netcoreapp2.2\CrudApp.runtimeconfig.dev.json
+C:\Users\Orji Michael C\source\repos\CrudApp\CrudApp\bin\Release\netcoreapp2.2\CrudApp.dll
+C:\Users\Orji Michael C\source\repos\CrudApp\CrudApp\bin\Release\netcoreapp2.2\CrudApp.pdb
+C:\Users\Orji Michael C\source\repos\CrudApp\CrudApp\obj\Release\netcoreapp2.2\CrudApp.csprojAssemblyReference.cache
+C:\Users\Orji Michael C\source\repos\CrudApp\CrudApp\obj\Release\netcoreapp2.2\CrudApp.csproj.CoreCompileInputs.cache
+C:\Users\Orji Michael C\source\repos\CrudApp\CrudApp\obj\Release\netcoreapp2.2\CrudApp.AssemblyInfoInputs.cache
+C:\Users\Orji Michael C\source\repos\CrudApp\CrudApp\obj\Release\netcoreapp2.2\CrudApp.AssemblyInfo.cs
+C:\Users\Orji Michael C\source\repos\CrudApp\CrudApp\obj\Release\netcoreapp2.2\CrudApp.dll
+C:\Users\Orji Michael C\source\repos\CrudApp\CrudApp\obj\Release\netcoreapp2.2\CrudApp.pdb
