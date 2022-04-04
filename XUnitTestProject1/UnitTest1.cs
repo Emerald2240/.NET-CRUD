@@ -9,8 +9,9 @@ namespace XUnitTestProject1
         [Fact]
         public void BasicTrueOrFalseTest()
         {
-            bool naLie = false;
-            Assert.True(naLie);
+            //checks for true or false
+           bool naLie = false;
+           Assert.True(naLie);
         }
 
         [Fact]
